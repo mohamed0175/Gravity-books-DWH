@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITI\\x-DataWareHouse\\Final Project\\integration\\GBs_DWH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1CE51F-1016-4F8B-721D-779054293E54}|GBs_DWH.dtproj|E:\\ITI\\x-DataWareHouse\\Final Project\\integration\\GBs_DWH\\Order_History_Fact_v001.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{DE1CE51F-1016-4F8B-721D-779054293E54}|GBs_DWH.dtproj|solutionrelative:Order_History_Fact_v001.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1CE51F-1016-4F8B-721D-779054293E54}|GBs_DWH.dtproj|E:\\ITI\\x-DataWareHouse\\Final Project\\integration\\GBs_DWH\\Status_Dim(Junk).v001.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{DE1CE51F-1016-4F8B-721D-779054293E54}|GBs_DWH.dtproj|solutionrelative:Status_Dim(Junk).v001.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1CE51F-1016-4F8B-721D-779054293E54}|GBs_DWH.dtproj|E:\\ITI\\x-DataWareHouse\\Final Project\\integration\\GBs_DWH\\Orders_Fact_v001.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{DE1CE51F-1016-4F8B-721D-779054293E54}|GBs_DWH.dtproj|solutionrelative:Orders_Fact_v001.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order_History_Fact_v001.dtsx [Design]",
+              "DocumentMoniker": "E:\\ITI\\x-DataWareHouse\\Final Project\\integration\\GBs_DWH\\Order_History_Fact_v001.dtsx",
+              "RelativeDocumentMoniker": "Order_History_Fact_v001.dtsx",
+              "ToolTip": "E:\\ITI\\x-DataWareHouse\\Final Project\\integration\\GBs_DWH\\Order_History_Fact_v001.dtsx [Design]",
+              "RelativeToolTip": "Order_History_Fact_v001.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-04-18T14:56:12.826Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Orders_Fact_v001.dtsx [Design]",
+              "DocumentMoniker": "E:\\ITI\\x-DataWareHouse\\Final Project\\integration\\GBs_DWH\\Orders_Fact_v001.dtsx",
+              "RelativeDocumentMoniker": "Orders_Fact_v001.dtsx",
+              "ToolTip": "E:\\ITI\\x-DataWareHouse\\Final Project\\integration\\GBs_DWH\\Orders_Fact_v001.dtsx [Design]",
+              "RelativeToolTip": "Orders_Fact_v001.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-04-18T14:35:08.672Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Status_Dim(Junk).v001.dtsx [Design]",
+              "DocumentMoniker": "E:\\ITI\\x-DataWareHouse\\Final Project\\integration\\GBs_DWH\\Status_Dim(Junk).v001.dtsx",
+              "RelativeDocumentMoniker": "Status_Dim(Junk).v001.dtsx",
+              "ToolTip": "E:\\ITI\\x-DataWareHouse\\Final Project\\integration\\GBs_DWH\\Status_Dim(Junk).v001.dtsx [Design]",
+              "RelativeToolTip": "Status_Dim(Junk).v001.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-04-18T12:18:05.294Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

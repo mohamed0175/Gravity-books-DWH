@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITI\\x-DataWareHouse\\Final Project\\analysis\\GBs_DWH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0443B8-BEAA-CF06-ADC2-84A2CB6A5CF1}|GBs_DWH.dwproj|E:\\ITI\\x-DataWareHouse\\Final Project\\analysis\\GBs_DWH\\order_fact_view.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DD0443B8-BEAA-CF06-ADC2-84A2CB6A5CF1}|GBs_DWH.dwproj|solutionrelative:order_fact_view.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0443B8-BEAA-CF06-ADC2-84A2CB6A5CF1}|GBs_DWH.dwproj|E:\\ITI\\x-DataWareHouse\\Final Project\\analysis\\GBs_DWH\\accumulating_fact_source.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DD0443B8-BEAA-CF06-ADC2-84A2CB6A5CF1}|GBs_DWH.dwproj|solutionrelative:accumulating_fact_source.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "order_fact_view.cube [Design]",
+              "DocumentMoniker": "E:\\ITI\\x-DataWareHouse\\Final Project\\analysis\\GBs_DWH\\order_fact_view.cube",
+              "RelativeDocumentMoniker": "order_fact_view.cube",
+              "ToolTip": "E:\\ITI\\x-DataWareHouse\\Final Project\\analysis\\GBs_DWH\\order_fact_view.cube [Design]",
+              "RelativeToolTip": "order_fact_view.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-20T15:27:33.28Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "accumulating_fact_source.cube [Design]",
+              "DocumentMoniker": "E:\\ITI\\x-DataWareHouse\\Final Project\\analysis\\GBs_DWH\\accumulating_fact_source.cube",
+              "RelativeDocumentMoniker": "accumulating_fact_source.cube",
+              "ToolTip": "E:\\ITI\\x-DataWareHouse\\Final Project\\analysis\\GBs_DWH\\accumulating_fact_source.cube [Design]",
+              "RelativeToolTip": "accumulating_fact_source.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-19T14:50:11.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
