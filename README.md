@@ -1,9 +1,3 @@
-readme_content = """# Gravity Books Data Warehouse (GBS DWH)
-
-An end-to-end Enterprise Business Intelligence and Data Warehousing solution designed for the **Gravity Books** e-commerce platform. This project implements a complete data pipeline following the **Kimball Architecture**, transforming raw transactional data (OLTP) into an optimized multi-dimensional analytical warehouse (OLAP), complete with ETL workflows, OLAP cubes, and interactive business dashboards.
-
----
-
 ## 📌 Project Overview & Motivation
 
 The business analysis team at Gravity Books faced significant operational bottlenecks due to the lack of a centralized, optimized data source for reporting. Querying the operational database directly led to performance degradation and complex SQL joins that delayed business reports.
